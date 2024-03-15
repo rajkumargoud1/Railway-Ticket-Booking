@@ -1,0 +1,38 @@
+
+<html>
+ <head>
+  <title>RAILWAY TICKET BOOKING</title>
+ </head>
+ <body>
+ <form>
+<center>
+<fieldset style = "width :800px; height :800px;">
+<h1 style = "background-color:red">RAILYWAY TICKET BOOKING</h1>
+<fieldset style ="background-color:blue; width :600px;height :600px;">
+<fieldset>
+<legend>FIRSTNAME *</legend>
+<input style = "width :600px;border :0px;outline :0px"></input>
+<fieldset>
+<legend>LASTNAME *</legend>
+<input style = "width :600px;border:0px;outline:0px"></input>
+</fieldset>
+<br></br>
+<td><input style ="width :700px;height:50px;outline:0px" required placeholder= "ENTER DESTINATION *"></input></td>
+<br></br>
+<td><input style ="width :700px;height:50px;outline:0px" required placeholder= "ENTER AGE *"></input></td>
+<br></br>
+<fieldset>
+<legend> ENTER ADDRESS *</legend>
+<input style = "width :600px;border:50px;outline:500px"></input>
+<br></br>
+</fieldset>
+  <input type = "submit" value = "ADD"></input>
+  <input type ="reset" value= "CLEARFORM"></input>
+  <br></br>
+</fieldset>
+</fieldset>
+</fieldset>
+</center>
+</form>
+ </body>
+</html>
